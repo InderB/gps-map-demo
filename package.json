@@ -1,0 +1,26 @@
+{
+  "name": "gps-map-demo",
+  "version": "1.0.0",
+  "description": "Mini Project to showcase map functionalities",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "geolib": "^2.0.24",
+    "grunt": "^1.0.2",
+    "nodemon": "^1.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InderB/gps-map-demo.git"
+  },
+  "author": "Inderjeet Kaur Bilkhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InderB/gps-map-demo/issues"
+  },
+  "homepage": "https://github.com/InderB/gps-map-demo#readme"
+}

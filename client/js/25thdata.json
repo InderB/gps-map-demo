@@ -1,0 +1,2486 @@
+[
+  {
+    "time": "2017-03-25T17:51:26.348Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6311
+  },
+  {
+    "time": "2017-03-25T17:51:26.348Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1689
+  },
+  {
+    "time": "2017-03-25T17:51:58.844Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6657
+  },
+  {
+    "time": "2017-03-25T17:51:58.844Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2018
+  },
+  {
+    "time": "2017-03-25T17:52:30.787Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6713
+  },
+  {
+    "time": "2017-03-25T17:52:30.787Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2008
+  },
+  {
+    "time": "2017-03-25T17:53:02.785Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6713
+  },
+  {
+    "time": "2017-03-25T17:53:02.785Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2008
+  },
+  {
+    "time": "2017-03-25T17:53:34.408Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6713
+  },
+  {
+    "time": "2017-03-25T17:53:34.408Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2008
+  },
+  {
+    "time": "2017-03-25T17:54:06.743Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6713
+  },
+  {
+    "time": "2017-03-25T17:54:06.743Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2008
+  },
+  {
+    "time": "2017-03-25T17:54:38.783Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6665
+  },
+  {
+    "time": "2017-03-25T17:54:38.783Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2089
+  },
+  {
+    "time": "2017-03-25T17:55:10.78Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6684
+  },
+  {
+    "time": "2017-03-25T17:55:10.78Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2029
+  },
+  {
+    "time": "2017-03-25T17:55:42.742Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6695
+  },
+  {
+    "time": "2017-03-25T17:55:42.742Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.208
+  },
+  {
+    "time": "2017-03-25T17:56:14.781Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:56:14.781Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:56:46.78Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:56:46.78Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:57:18.782Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:57:18.782Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:57:50.778Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:57:50.778Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:58:22.741Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:58:22.741Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:58:54.421Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T17:58:54.421Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2088
+  },
+  {
+    "time": "2017-03-25T17:59:26.778Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6699
+  },
+  {
+    "time": "2017-03-25T17:59:26.778Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2025
+  },
+  {
+    "time": "2017-03-25T17:59:58.778Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6699
+  },
+  {
+    "time": "2017-03-25T17:59:58.778Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2025
+  },
+  {
+    "time": "2017-03-25T18:00:30.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6712
+  },
+  {
+    "time": "2017-03-25T18:00:30.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T18:01:02.819Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.672
+  },
+  {
+    "time": "2017-03-25T18:01:02.819Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1931
+  },
+  {
+    "time": "2017-03-25T18:01:34.774Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.672
+  },
+  {
+    "time": "2017-03-25T18:01:34.774Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1931
+  },
+  {
+    "time": "2017-03-25T18:02:06.897Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.672
+  },
+  {
+    "time": "2017-03-25T18:02:06.897Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1931
+  },
+  {
+    "time": "2017-03-25T18:02:38.793Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:02:38.793Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:03:10.814Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:03:10.814Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:03:42.815Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:03:42.815Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:04:26.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:04:26.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:04:58.497Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:04:58.497Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:05:30.854Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:05:30.854Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:06:02.834Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:06:02.834Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:06:34.834Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:06:34.834Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:07:06.813Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:07:06.813Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:07:38.473Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:07:38.473Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:08:10.813Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:08:10.813Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:08:42.453Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:08:42.453Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:09:14.856Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:09:14.856Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:09:46.813Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:09:46.813Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:10:18.872Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6688
+  },
+  {
+    "time": "2017-03-25T18:10:18.872Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1984
+  },
+  {
+    "time": "2017-03-25T18:10:50.832Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6716
+  },
+  {
+    "time": "2017-03-25T18:10:50.832Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2035
+  },
+  {
+    "time": "2017-03-25T18:11:22.812Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6716
+  },
+  {
+    "time": "2017-03-25T18:11:22.812Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2035
+  },
+  {
+    "time": "2017-03-25T18:11:54.852Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6716
+  },
+  {
+    "time": "2017-03-25T18:11:54.852Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2035
+  },
+  {
+    "time": "2017-03-25T18:12:26.832Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:12:26.832Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:12:58.829Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:12:58.829Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:13:30.853Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:13:30.853Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:14:02.82Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:14:02.82Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:14:34.856Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:14:34.856Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:15:06.849Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:15:06.849Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:15:38.813Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:15:38.813Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:16:19.531Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:16:19.531Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:16:46.853Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:16:46.853Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:17:18.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:17:18.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:17:55.032Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:17:55.032Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:18:22.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:18:22.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:18:54.851Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:18:54.851Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:19:26.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:19:26.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:19:58.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:19:58.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:20:30.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:20:30.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:21:02.847Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:21:02.847Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:21:34.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:21:34.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:22:06.831Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:22:06.831Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:22:38.811Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:22:38.811Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:23:10.812Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:23:10.812Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:23:42.807Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:23:42.807Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:24:14.889Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:24:14.889Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:24:46.791Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:24:46.791Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:25:18.831Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6729
+  },
+  {
+    "time": "2017-03-25T18:25:18.831Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2092
+  },
+  {
+    "time": "2017-03-25T18:25:50.827Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6721
+  },
+  {
+    "time": "2017-03-25T18:25:50.827Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T18:26:22.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6721
+  },
+  {
+    "time": "2017-03-25T18:26:22.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T18:26:54.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6721
+  },
+  {
+    "time": "2017-03-25T18:26:54.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T18:27:26.847Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6721
+  },
+  {
+    "time": "2017-03-25T18:27:26.847Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T18:27:58.809Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6721
+  },
+  {
+    "time": "2017-03-25T18:27:58.809Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T18:28:30.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6711
+  },
+  {
+    "time": "2017-03-25T18:28:30.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2098
+  },
+  {
+    "time": "2017-03-25T18:29:02.809Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6711
+  },
+  {
+    "time": "2017-03-25T18:29:02.809Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2098
+  },
+  {
+    "time": "2017-03-25T18:29:34.851Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6711
+  },
+  {
+    "time": "2017-03-25T18:29:34.851Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2098
+  },
+  {
+    "time": "2017-03-25T18:30:06.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:30:06.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:30:38.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:30:38.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:31:10.85Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:31:10.85Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:31:42.808Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:31:42.808Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:32:14.811Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:32:14.811Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:32:46.851Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:32:46.851Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:33:18.85Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:33:18.85Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:33:50.848Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:33:50.848Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:34:22.811Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:34:22.811Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:34:54.849Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:34:54.849Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:35:26.849Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:35:26.849Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:35:58.851Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:35:58.851Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:36:30.488Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:36:30.488Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:37:14.812Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:37:14.812Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:37:46.809Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:37:46.809Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:38:18.866Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:38:18.866Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:38:50.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:38:50.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:39:22.867Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:39:22.867Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:39:54.852Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:39:54.852Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:40:26.812Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:40:26.812Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:40:58.809Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:40:58.809Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:41:30.809Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:41:30.809Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:42:02.811Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:42:02.811Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T18:42:34.81Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6717
+  },
+  {
+    "time": "2017-03-25T18:42:34.81Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2038
+  },
+  {
+    "time": "2017-03-25T19:10:01.325Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:10:01.325Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:10:31.734Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:10:31.734Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:11:03.733Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:11:03.733Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:11:35.792Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:11:35.792Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:12:07.772Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:12:07.772Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:12:39.414Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:12:39.414Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:13:11.779Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6726
+  },
+  {
+    "time": "2017-03-25T19:13:11.779Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1955
+  },
+  {
+    "time": "2017-03-25T19:13:43.774Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6714
+  },
+  {
+    "time": "2017-03-25T19:13:43.774Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1893
+  },
+  {
+    "time": "2017-03-25T19:14:15.779Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6714
+  },
+  {
+    "time": "2017-03-25T19:14:15.779Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1893
+  },
+  {
+    "time": "2017-03-25T19:14:47.819Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6714
+  },
+  {
+    "time": "2017-03-25T19:14:47.819Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1893
+  },
+  {
+    "time": "2017-03-25T19:15:19.774Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6714
+  },
+  {
+    "time": "2017-03-25T19:15:19.774Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1893
+  },
+  {
+    "time": "2017-03-25T19:15:51.776Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6714
+  },
+  {
+    "time": "2017-03-25T19:15:51.776Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1893
+  },
+  {
+    "time": "2017-03-25T19:16:23.795Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:16:23.795Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:16:55.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:16:55.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:17:27.778Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:17:27.778Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:17:59.815Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:17:59.815Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:18:31.896Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:18:31.896Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:19:03.835Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:19:03.835Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:19:35.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:19:35.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:20:07.437Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:20:07.437Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:20:39.78Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:20:39.78Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:21:11.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:21:11.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:21:43.437Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6687
+  },
+  {
+    "time": "2017-03-25T19:21:43.437Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.195
+  },
+  {
+    "time": "2017-03-25T19:22:15.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:22:15.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2009
+  },
+  {
+    "time": "2017-03-25T19:22:47.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:22:47.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2009
+  },
+  {
+    "time": "2017-03-25T19:23:19.919Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:23:19.919Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2009
+  },
+  {
+    "time": "2017-03-25T19:23:51.854Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:23:51.854Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2009
+  },
+  {
+    "time": "2017-03-25T19:24:23.836Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:24:23.836Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2009
+  },
+  {
+    "time": "2017-03-25T19:24:55.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6719
+  },
+  {
+    "time": "2017-03-25T19:24:55.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1982
+  },
+  {
+    "time": "2017-03-25T19:25:27.779Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6719
+  },
+  {
+    "time": "2017-03-25T19:25:27.779Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1982
+  },
+  {
+    "time": "2017-03-25T19:25:59.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6719
+  },
+  {
+    "time": "2017-03-25T19:25:59.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1982
+  },
+  {
+    "time": "2017-03-25T19:26:31.776Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6719
+  },
+  {
+    "time": "2017-03-25T19:26:31.776Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1982
+  },
+  {
+    "time": "2017-03-25T19:27:03.814Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.677
+  },
+  {
+    "time": "2017-03-25T19:27:03.814Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2015
+  },
+  {
+    "time": "2017-03-25T19:27:35.459Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.677
+  },
+  {
+    "time": "2017-03-25T19:27:35.459Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2015
+  },
+  {
+    "time": "2017-03-25T19:28:07.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.677
+  },
+  {
+    "time": "2017-03-25T19:28:07.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2015
+  },
+  {
+    "time": "2017-03-25T19:28:39.796Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6715
+  },
+  {
+    "time": "2017-03-25T19:28:39.796Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1995
+  },
+  {
+    "time": "2017-03-25T19:29:11.837Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6668
+  },
+  {
+    "time": "2017-03-25T19:29:11.837Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2041
+  },
+  {
+    "time": "2017-03-25T19:29:43.456Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6741
+  },
+  {
+    "time": "2017-03-25T19:29:43.456Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2006
+  },
+  {
+    "time": "2017-03-25T19:30:15.815Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6741
+  },
+  {
+    "time": "2017-03-25T19:30:15.815Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2006
+  },
+  {
+    "time": "2017-03-25T19:30:47.855Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6741
+  },
+  {
+    "time": "2017-03-25T19:30:47.855Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2006
+  },
+  {
+    "time": "2017-03-25T19:31:19.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:31:19.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:31:51.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:31:51.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:32:23.855Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:32:23.855Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:32:55.517Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:32:55.517Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:33:27.814Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:33:27.814Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:33:59.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:33:59.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:34:31.839Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:34:31.839Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:35:03.821Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:35:03.821Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:35:35.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:35:35.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:36:07.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:36:07.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:36:39.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6701
+  },
+  {
+    "time": "2017-03-25T19:36:39.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2031
+  },
+  {
+    "time": "2017-03-25T19:37:11.82Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T19:37:11.82Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:37:43.82Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:37:43.82Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:38:15.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:38:15.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:38:47.822Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:38:47.822Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:39:19.918Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:39:19.918Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:39:51.798Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:39:51.798Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:40:23.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:40:23.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:40:55.821Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:40:55.821Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:41:27.816Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:41:27.816Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:41:59.9Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:41:59.9Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:42:31.818Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:42:31.818Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:43:03.819Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:43:03.819Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:43:35.821Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6739
+  },
+  {
+    "time": "2017-03-25T19:43:35.821Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1985
+  },
+  {
+    "time": "2017-03-25T19:44:07.82Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6731
+  },
+  {
+    "time": "2017-03-25T19:44:07.82Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2042
+  },
+  {
+    "time": "2017-03-25T19:44:39.817Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:44:39.817Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:45:11.48Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:45:11.48Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:45:43.862Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:45:43.862Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:46:15.66Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:46:15.66Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:46:47.844Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:46:47.844Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:47:19.896Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:47:19.896Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:47:51.92Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:47:51.92Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:48:23.942Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:48:23.942Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:48:55.86Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:48:55.86Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:49:27.862Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:49:27.862Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:49:59.859Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:49:59.859Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:50:31.839Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:50:31.839Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:51:03.821Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:51:03.821Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:51:35.857Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:51:35.857Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:52:07.822Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:52:07.822Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:52:39.86Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:52:39.86Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:53:11.522Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:53:11.522Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:53:43.819Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:53:43.819Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:54:15.858Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:54:15.858Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:54:47.861Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:54:47.861Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:55:19.897Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.674
+  },
+  {
+    "time": "2017-03-25T19:55:19.897Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.204
+  },
+  {
+    "time": "2017-03-25T19:55:51.88Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.671
+  },
+  {
+    "time": "2017-03-25T19:55:51.88Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2001
+  },
+  {
+    "time": "2017-03-25T19:56:23.859Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.671
+  },
+  {
+    "time": "2017-03-25T19:56:23.859Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2001
+  },
+  {
+    "time": "2017-03-25T19:56:55.863Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.671
+  },
+  {
+    "time": "2017-03-25T19:56:55.863Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2001
+  },
+  {
+    "time": "2017-03-25T19:57:27.861Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6708
+  },
+  {
+    "time": "2017-03-25T19:57:27.861Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2001
+  },
+  {
+    "time": "2017-03-25T19:57:59.884Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T19:57:59.884Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T19:58:31.822Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T19:58:31.822Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T19:59:03.92Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T19:59:03.92Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T19:59:35.481Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T19:59:35.481Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:00:07.861Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:00:07.861Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:00:39.92Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:00:39.92Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:01:11.861Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:01:11.861Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:01:43.866Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:01:43.866Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:02:15.844Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:02:15.844Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:02:47.859Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:02:47.859Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:03:19.864Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:03:19.864Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:03:51.843Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6707
+  },
+  {
+    "time": "2017-03-25T20:03:51.843Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:04:23.841Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6733
+  },
+  {
+    "time": "2017-03-25T20:04:23.841Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2002
+  },
+  {
+    "time": "2017-03-25T20:04:55.899Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6736
+  },
+  {
+    "time": "2017-03-25T20:04:55.899Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1999
+  },
+  {
+    "time": "2017-03-25T20:05:27.938Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6736
+  },
+  {
+    "time": "2017-03-25T20:05:27.938Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.1999
+  },
+  {
+    "time": "2017-03-25T20:05:59.84Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:05:59.84Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  },
+  {
+    "time": "2017-03-25T20:06:31.479Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:06:31.479Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  },
+  {
+    "time": "2017-03-25T20:07:03.862Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:07:03.862Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  },
+  {
+    "time": "2017-03-25T20:07:35.859Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:07:35.859Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  },
+  {
+    "time": "2017-03-25T20:08:07.823Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:08:07.823Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  },
+  {
+    "time": "2017-03-25T20:08:43.919Z",
+    "del": 0,
+    "sensor": "LATITUDE",
+    "value": 1906.6735
+  },
+  {
+    "time": "2017-03-25T20:08:43.919Z",
+    "del": 0,
+    "sensor": "LONGITUDE",
+    "value": 7253.2016
+  }
+]

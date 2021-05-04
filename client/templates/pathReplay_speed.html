@@ -1,0 +1,42 @@
+<style media="screen">
+.controls {
+position: absolute;
+z-index: 999;
+top: 200px;
+right: 50px;
+}
+
+button {
+font-size: 14px;
+background: blue;
+color: white;
+border: none;
+padding: 10px;
+border-radius: 10px;
+}
+
+button:hover, button:focus {
+background: red;
+}
+
+span {
+color: red;
+background: white;
+padding: 10px;
+border-radius: 10px;
+}
+</style>
+<div class="l 12 row">
+  <h1>Speed on original data set</h1>
+  <div class="" id="map-originalSpeed" style="height:600px;width:100%"> </div>
+  <div class="controls">
+      <button ng-click="play()">Play</button>
+      <button ng-click="pause()">Pause</button>
+      <button ng-click="reset()">Reset</button>
+      <button ng-click="next()">Next</button>
+      <button ng-click="prev()">Previous</button>
+      <button ng-click="fast()">Fast</button>
+      <span id="speed">Speed: 1x</span>
+      <button ng-click="slow()">Slow</button>
+    </div>
+</div>

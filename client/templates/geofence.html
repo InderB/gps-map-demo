@@ -1,0 +1,30 @@
+<style media="screen">
+#small-chat {
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    z-index: 100;
+}
+</style>
+<div class="row">
+  <div class="col l12">
+<div class="col l6">
+  <h1 class="">Geofencing</h1>
+  <h4>All available fences</h4>
+  <h5 ng-repeat="fence in getFences"> <a href ng-click="applyFence(fence.data)">{{$index+1}}. {{fence.title}} </a> </h5>
+</div>
+    <div class="col l6 ">
+      <h1></h1>
+      <a class="waves-effect waves-light btn right" ui-sref="addGeofence"><i class="material-icons right">add</i>Add a Geofence</a>
+    </div>
+    <div class="" id="map-geofence" style="height:600px;width:100%"> </div>
+  </div>
+
+</div>
+<div class="row" >
+  <div id="small-chat" class="col l12" style="text-align:right">
+
+    <a class="btn-floating btn-large waves-effect waves-light red" title="Add a geofence" ui-sref="addGeofence"><i class="material-icons">add</i></a>
+  </div>
+
+</div>
