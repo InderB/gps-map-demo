@@ -1,8 +1,9 @@
 <div class="row">
   <div class="col l12">
-  <h3>Create Geofence</h3>
+    <h3>Create Geofence</h3>
 
-  <!-- <div class="row">
+    <!-- Currently we havent integrated backend, hence commented this part -->
+    <!-- <div class="row">
     <div class="input-field col s6 l6">
       <input id="Fence" type="text" ng-model="title" class="validate">
       <label for="fenceName">Fence Title</label>
@@ -10,19 +11,23 @@
     <div class="col l1">
 
     </div>
-<div class="col l3">
-  <a class="waves-effect waves-light btn" ng-click="createFence()"><i class="material-icons right">add</i>Create Geofence</a>
-</div>
+    <div class="col l3">
+      <a class="waves-effect waves-light btn" ng-click="createFence()"><i class="material-icons right">add</i>Create Geofence</a>
+    </div>
   </div> -->
-  <div class="col l12" style="padding-bottom:20px;">
-    <button class="btn waves-effect waves-light red right" type="button" name="button" ng-click="deleteAllShape()">Delete all fences <i class="material-icons right">delete</i> </button>
-    <button class="btn waves-effect waves-light right" type="button" name="button" ng-click="addFences()">Save all fences <i class="material-icons right">add</i> </button>
-    <button class="btn waves-effect waves-light" type="button" name="button" ng-click="getFences()">get fences</button>
-  </div>
+
+    <div class="col l12" style="padding-bottom:20px;">
+      <button class="btn waves-effect waves-light red right" type="button" name="button"
+        ng-click="deleteAllShape()">Delete all fences <i class="material-icons right">delete</i> </button>
+      <button class="btn waves-effect waves-light right" type="button" name="button" ng-click="addFences()">Save all
+        fences <i class="material-icons right">add</i> </button>
+      <button class="btn waves-effect waves-light" type="button" name="button" ng-click="getFences()">get
+        fences</button>
+    </div>
     <!-- <div class="input-field col s6">
-         <input placeholder="" id="first_name" type="text" class="validate">
-         <label for="fenceName">Geofence title</label>
-       </div> -->
+      <input placeholder="" id="first_name" type="text" class="validate">
+      <label for="fenceName">Geofence title</label>
+    </div> -->
     <div class="map" id="map-addGeofence" style="height:600px;width:100%">
 
     </div>
@@ -32,8 +37,8 @@
 <div id="modal1" class="modal">
   <div class="modal-content">
     <div class="input-field col s6">
-       <input id="title" type="text" ng-model="title" class="validate">
-       <label for="title">Give a title this fence </label>
+      <input id="title" type="text" ng-model="title" class="validate">
+      <label for="title">Give a title this fence </label>
     </div>
     <p class="" ng-if="titleError" style="color:red">Fill the title field</p>
   </div>

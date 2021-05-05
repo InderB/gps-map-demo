@@ -21,8 +21,10 @@ app.set('port', config.port);
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 app.use(require('serve-static')(path.join(__dirname, 'client')));
+
 require('./routes')(app);
 // require('./serviceBackend')(app)
+
 app.server.listen(app.config.port, function(){
   //and... we're live
 });
